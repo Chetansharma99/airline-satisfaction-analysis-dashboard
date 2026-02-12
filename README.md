@@ -99,3 +99,13 @@ The dashboard helps identify **key drivers of satisfaction and dissatisfaction**
 
 ⭐ If you like this project, feel free to star the repository!
 
+## 📊 Dashboard Preview
+
+### Passenger Analysis
+![Passenger Analysis](dashboard-images/passenger_analysis.png)
+
+### Passenger Satisfaction
+![Passenger Satisfaction](dashboard-images/passenger_satisfaction.png)
+
+### Delay Cause Analysis
+![Delay Cause](dashboard-images/delay_cause.png)
