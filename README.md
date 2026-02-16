@@ -38,43 +38,6 @@ The dashboard helps identify **key drivers of satisfaction and dissatisfaction**
 
 ---
 
-## 📈 Dashboard Pages
-
-### 1️⃣ Passenger Analysis
-
-**Key Insights:**
-- Majority of passengers are returning customers
-- Business travel dominates higher satisfaction
-- Age group 31–45 represents the largest segment
-
----
-
-### 2️⃣ Passenger Satisfaction
-
-**Key Insights:**
-- Business class customers show the highest satisfaction
-- Returning customers are significantly more satisfied
-- Satisfaction increases with longer travel distances
-
----
-
-### 3️⃣ Delay & Dissatisfaction Causes
-
-**Key Insights:**
-- Seat comfort, cleanliness, and onboard service strongly influence satisfaction
-- Digital touchpoints (online booking & check-in) matter significantly
-- Legroom, Wi-Fi, and food quality present improvement opportunities
-
----
-
-## 🔍 Key Business Insights
-- Service quality directly impacts overall satisfaction
-- Loyal customers are more forgiving and satisfied
-- Data-driven segmentation enables targeted service improvements
-- Improving low-rated services can significantly boost customer loyalty
-
----
-
 ## 📂 Files Included
 - `Airline_Satisfaction_Dashboard.pbix` – Power BI dashboard
 - `images/` – Dashboard screenshots
@@ -110,11 +73,36 @@ The dashboard helps identify **key drivers of satisfaction and dissatisfaction**
 - Business travel dominates higher satisfaction
 - Age group 31–45 represents the largest segment
 ---
+
 ### Passenger Analysis
 ![Passenger Analysis](dashboard-images/passenger_analysis.png)
+
+### 2️⃣ Passenger Satisfaction
+
+**Key Insights:**
+- Business class customers show the highest satisfaction
+- Returning customers are significantly more satisfied
+- Satisfaction increases with longer travel distances
+---
 
 ### Passenger Satisfaction
 ![Passenger Satisfaction](dashboard-images/passenger_satisfaction.png)
 
+### 3️⃣ Delay & Dissatisfaction Causes
+
+**Key Insights:**
+- Seat comfort, cleanliness, and onboard service strongly influence satisfaction
+- Digital touchpoints (online booking & check-in) matter significantly
+- Legroom, Wi-Fi, and food quality present improvement opportunities
+---
+
 ### Delay Cause Analysis
 ![Delay Cause](dashboard-images/delay_cause.png)
+
+## 🔍 Key Business Insights
+- Service quality directly impacts overall satisfaction
+- Loyal customers are more forgiving and satisfied
+- Data-driven segmentation enables targeted service improvements
+- Improving low-rated services can significantly boost customer loyalty
+
+---
