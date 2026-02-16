@@ -101,6 +101,15 @@ The dashboard helps identify **key drivers of satisfaction and dissatisfaction**
 
 ## 📊 Dashboard Preview
 
+## 📈 Dashboard Pages
+
+### 1️⃣ Passenger Analysis
+
+**Key Insights:**
+- Majority of passengers are returning customers
+- Business travel dominates higher satisfaction
+- Age group 31–45 represents the largest segment
+---
 ### Passenger Analysis
 ![Passenger Analysis](dashboard-images/passenger_analysis.png)
 
